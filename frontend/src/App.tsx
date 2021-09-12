@@ -8,8 +8,8 @@ function App() {
       <NavBar />
       <div className="container">
         <h1 className="text-primary">Hello world!</h1>
+        <DataTable />
       </div>
-      <DataTable />
       <Footer />
     </>
   );
