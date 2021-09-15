@@ -14,7 +14,7 @@
 ##  Applications
 
 - Netlify: frontend
-    - https://ciskowsales.netlify.app/dashboard
+    - https://ciskowsales.netlify.app/
     - 
 - Heroku: backend
     - https://sales-app-ciskow.herokuapp.com/
